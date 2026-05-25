@@ -1,4 +1,4 @@
-## Yo, I'm [Your Name]
+## Yo, I'm Andre Pagliawan
 
 I'm a Computer Science Major from the Philippines.
 I am interested in learning more about the languages I am currently using. I mostly use python and javascript as a programming language for now, But I am eager to learn and expand my abilities. I want to be a game developer someday.
