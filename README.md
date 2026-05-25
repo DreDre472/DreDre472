@@ -1,4 +1,19 @@
-## Hi there 👋
+## Yo, I'm [Your Name]
+
+I'm a Computer Science Major from the Philippines.
+I am interested in learning more about the languages I am currently using
+
+### Programming Skills
+* **Languages:** [Python, JavaScript, TypeScript]
+* **Frontend:** [e.g., React, HTML/CSS]
+* **Backend:** [Node.js]
+* **Tools:** [e.g., Git, Docker]
+
+### You can find me in
+* **LinkedIn:** https://www.linkedin.com/in/andre-pagliawan-5b86a2411/
+* **Facebook:** https://www.facebook.com/andre.pagliawan
+* **Email:** andrepagliawan@gmail.com
+
 
 <!--
 **DreDre472/DreDre472** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
